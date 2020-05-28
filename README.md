@@ -4,6 +4,7 @@ A script to do redis command "FLUSHALL" to multiple redis servers via telnet cli
 
 ## How To Use
 
+- Install expect i.e: `sudo apt-get install -y expect` on ubuntu or `brew install expect` on osx
 - Make `redisflush.exp` executeable by `chmod +x redisflush.exp`
 - Do FLUSHALL to single Redis server 
 
