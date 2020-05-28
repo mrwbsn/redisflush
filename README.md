@@ -1,6 +1,6 @@
 # Redis Flush
 
-A script to do redis command "FLUSHALL" to multiple redis servers via telnet client
+Do flushall to your all redis server
 
 ## How To Use
 
